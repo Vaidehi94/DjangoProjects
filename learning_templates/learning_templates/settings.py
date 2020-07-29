@@ -23,7 +23,7 @@ TEMPLATE_DIR = os.path.join(BASE_DIR,'templates')
 SECRET_KEY = '66fnr6b=4p%b5^70oldvjy0bu6#z_d#5h%z1@ts$!zf9^e4_ci'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['vaidehi26.pythonanywhere.com']
 
